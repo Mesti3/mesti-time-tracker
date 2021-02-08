@@ -1,0 +1,7 @@
+<application>
+  <component name="MestiTimeTrackerDefaults">
+    <option name="pauseOtherTrackerInstances" value="false" />
+    <option name="ideUserPattern" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lc3RpY2t5Lmpha3ViN0BnbWFpbC5jb20iLCJpYXQiOjE1Njg3MjA3NzUsImV4cCI6MTU2ODg1MDM3NX0.du83lwV0F9090HaDNKwG5ongA6CKkTv3MCptADFlXB0" />
+    <option name="gitUserPattern" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lc3RpY2t5Lmpha3ViN0BnbWFpbC5jb20iLCJpYXQiOjE1Njg3MjA3NzUsImV4cCI6MTU2ODg1MDM3NX0.du83lwV0F9090HaDNKwG5ongA6CKkTv3MCptADFlXB0" />
+  </component>
+</application>

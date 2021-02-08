@@ -1,0 +1,27 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <id>com.Mesti.Mesti_Time_Tracker</id>
+  <name>Mesti_Time_Tracker</name>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <description>
+    &lt;p&gt;Track your time on current project.&lt;/p&gt;&lt;br&gt;
+    &lt;em&gt;most HTML tags may be used&lt;/em&gt;
+    </description>
+  <idea-version since-build="183.5912" until-build="183.*"/>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions/>
+  <project-components>
+    <component>
+      <implementation-class>com.TimeTrackerComponent</implementation-class>
+    </component>
+  </project-components>
+  <application-components>
+    <component>
+      <implementation-class>com.TimeTrackerDefaultSettingsComponent</implementation-class>
+    </component>
+  </application-components>
+</idea-plugin>

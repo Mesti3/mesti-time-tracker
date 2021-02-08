@@ -1,0 +1,59 @@
+2020-01-20 13:01:15,069 [  48426]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@ac01c65 
+2020-01-20 13:01:15,070 [  48427]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-01-20 13:01:15,084 [  48441]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 1711 ms 
+2020-01-20 13:01:15,085 [  48442]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 1591 classes 
+2020-01-20 13:01:15,085 [  48442]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1232 classes 
+2020-01-20 13:01:15,085 [  48442]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 514 classes 
+2020-01-20 13:01:15,086 [  48443]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 246 classes 
+2020-01-20 13:01:15,086 [  48443]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 209 classes 
+2020-01-20 13:01:15,086 [  48443]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 129 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 122 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 99 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 84 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - CVS loaded 82 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 67 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 64 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 57 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 54 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 49 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 43 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 38 classes 
+2020-01-20 13:01:15,087 [  48444]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 33 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 30 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 27 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - com.Mesti.Mesti_Time_Tracker loaded 24 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 22 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.javaFX loaded 20 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 17 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 9 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 8 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 7 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 5 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 4 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 3 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.eclipse loaded 3 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 3 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 3 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 2 classes 
+2020-01-20 13:01:15,088 [  48445]   INFO - llij.ide.plugins.PluginManager - com.intellij.configurationScript loaded 1 classes 
+2020-01-20 13:01:15,110 [  48467]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 40ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-01-20 13:01:15,110 [  48467]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 219 files to update 
+2020-01-20 13:01:15,515 [  48872]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 405ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-01-20 13:01:15,516 [  48873]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-01-20 13:01:15,516 [  48873]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project 'D:\Document\IdeaProject\untitled' untitled 
+2020-01-20 13:01:15,576 [  48933]   INFO - j.ide.ui.OptionsTopHitProvider - 58 ms spent to cache options in project 
+2020-01-20 13:01:15,698 [  49055]   INFO - j.ide.ui.OptionsTopHitProvider - 61 ms spent on EDT to cache options in project 
+2020-01-20 13:01:15,704 [  49061]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@21c044b1 
+2020-01-20 13:01:15,710 [  49067]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@6947e1de 
+2020-01-20 13:01:15,726 [  49083]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-01-20 13:01:15,726 [  49083]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project 'D:\Document\IdeaProject\untitled' untitled 
+2020-01-20 13:01:15,732 [  49089]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@3016e53c 
+2020-01-20 13:01:15,732 [  49089]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-01-20 13:01:15,732 [  49089]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project 'D:\Document\IdeaProject\untitled' untitled 
+2020-01-20 13:01:16,640 [  49997]   INFO - CompilerWorkspaceConfiguration - Available processors: 12 
+2020-01-20 13:01:18,742 [  52099]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@27aae738 
+2020-01-20 13:01:18,744 [  52101]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-01-20 13:01:18,761 [  52118]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 17ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-01-20 13:01:18,765 [  52122]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-01-20 13:01:18,765 [  52122]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project 'D:\Document\IdeaProject\untitled' untitled 
+2020-01-20 13:03:29,503 [ 182860]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: D:\Projects\Java\Mesti_Time_Tracker\Mesti_Time_Tracker\build\idea-sandbox\system\compile-server\test_9218bcf0 

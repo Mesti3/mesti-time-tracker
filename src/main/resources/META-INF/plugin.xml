@@ -1,0 +1,46 @@
+<idea-plugin>
+    <id>com.Mesti.Mesti_Time_Tracker</id>
+    <name>Mesti_Time_Tracker</name>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+    <description><![CDATA[
+    <p>Track your time on current project.</p><br>
+    <em>most HTML tags may be used</em>
+    ]]></description>
+
+
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="145.0"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+    <project-components>
+        <component>
+            <implementation-class>com.TimeTrackerComponent</implementation-class>
+        </component>
+    </project-components>
+
+    <application-components>
+        <component>
+            <implementation-class>com.TimeTrackerDefaultSettingsComponent</implementation-class>
+        </component>
+    </application-components>
+</idea-plugin>
